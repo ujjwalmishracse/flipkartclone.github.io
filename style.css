@@ -204,6 +204,9 @@ body {
     overflow: hidden;
     padding: 0 20px;
 }
+.products-grid::-webkit-scrollbar{
+    display: none;
+}
 
 .product-card {
     border: 1px solid #f0f0f0;
